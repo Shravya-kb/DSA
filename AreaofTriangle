@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    //Write your code here
+    int length,breadth,area;
+    cin>>length>>breadth;
+    area=length*breadth;
+    cout<<area<<endl;
+
+    return 0;
+}
